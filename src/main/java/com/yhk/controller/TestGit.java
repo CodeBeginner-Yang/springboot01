@@ -8,7 +8,8 @@ package com.yhk.controller;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("hello Git");
-        
+        System.out.println("creat branch");
         System.out.println("hello branch02");
+        System.out.println("second commit");
     }
 }
