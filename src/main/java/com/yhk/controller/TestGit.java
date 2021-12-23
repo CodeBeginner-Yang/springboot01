@@ -12,6 +12,7 @@ public class TestGit {
         System.out.println("hello master");
         System.out.println("hello yhk");
         System.out.println("master push");
+        System.out.println("master pull");
 
     }
 }
